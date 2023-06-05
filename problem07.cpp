@@ -1,4 +1,4 @@
-//숫자 정사각
+//숫자 정사각형 출력하기 - 1
 #include <iostream>
 using namespace std;
 int main()
