@@ -1,4 +1,4 @@
-//
+//자리 거듭 제곱수
 #include <iostream>
 #include <cmath>
 #include <cstring>
