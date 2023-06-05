@@ -1,4 +1,4 @@
-//숫자 정
+//숫자 정사각형 달팽이모양 출력하기
 #include <iostream>
 using namespace std;
 int main()
